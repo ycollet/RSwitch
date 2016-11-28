@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {rediscover = id; }; 
+            CLASS = SwitchCtrl; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {list = NSTableView; window = NSWindow; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
